@@ -2,11 +2,11 @@ h1 a {
     color: #0000FF;
 }
 body {
-    background-color: #FAE1F1;
+    background-color: #EDF3FA;
     padding-left: 15px;
 }
 .page-header {
-    background-color: #08509E;
+    background-color: #113B9C;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -22,6 +22,7 @@ body {
 }
 
 h1, h2, h3, h4 {
+    color:#02F7BA;
     font-family: 'Lobster';
 }
 
