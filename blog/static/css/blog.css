@@ -15,6 +15,7 @@ body {
 img {
     display: inline-block;
     height: 15%;
+    max-height: 10vw;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
